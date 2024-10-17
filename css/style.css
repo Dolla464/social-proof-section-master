@@ -32,6 +32,11 @@ main {
     margin: 7em auto 2em;
 }
 
+.content {
+    max-width: 1110px;
+    margin: 0 auto;
+}
+
 .header {
     width: 100%;
     display: flex;
